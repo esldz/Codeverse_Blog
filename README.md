@@ -23,6 +23,10 @@ $ npm i lodash
 ```
 
 ```
+$ npm i mongoose
+```
+
+```
 $ nodemon app.js
 ```
 
